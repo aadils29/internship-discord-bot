@@ -3,6 +3,7 @@
   "posted_job_ids": [
     "amazon:amazon:10517567",
     "ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037",
+    "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
     "ashby:ellipsislabs:02136b22-35b1-4b3d-8bef-567c3380a849",
     "ashby:heliux:ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
     "ashby:melius:b61f063a-4f94-4e50-a4ef-05aaab552280",
@@ -189,6 +190,7 @@
     "workday:alliedsolutions:/job/Carmel-IN/Software-Engineering-Intern_R-011087",
     "workday:amat:/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551",
     "workday:aoins:/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
+    "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
     "workday:aoins:/job/Lansing-MI/Software-Developer-Internship_R_2121",
     "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
     "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408",
@@ -314,6 +316,7 @@
     "workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302",
     "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
     "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
+    "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
     "workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
     "workday:motorolasolutions:/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
     "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
